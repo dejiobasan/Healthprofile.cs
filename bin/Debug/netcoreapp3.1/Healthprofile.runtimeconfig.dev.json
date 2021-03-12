@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ayode\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ayode\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\ayode\source\repos\Healthprofile\bin\Debug\netcoreapp3.1\Healthprofile.exe
+C:\Users\ayode\source\repos\Healthprofile\bin\Debug\netcoreapp3.1\Healthprofile.deps.json
+C:\Users\ayode\source\repos\Healthprofile\bin\Debug\netcoreapp3.1\Healthprofile.runtimeconfig.json
+C:\Users\ayode\source\repos\Healthprofile\bin\Debug\netcoreapp3.1\Healthprofile.runtimeconfig.dev.json
+C:\Users\ayode\source\repos\Healthprofile\bin\Debug\netcoreapp3.1\Healthprofile.dll
+C:\Users\ayode\source\repos\Healthprofile\bin\Debug\netcoreapp3.1\Healthprofile.pdb
+C:\Users\ayode\source\repos\Healthprofile\obj\Debug\netcoreapp3.1\Healthprofile.csprojAssemblyReference.cache
+C:\Users\ayode\source\repos\Healthprofile\obj\Debug\netcoreapp3.1\Healthprofile.AssemblyInfoInputs.cache
+C:\Users\ayode\source\repos\Healthprofile\obj\Debug\netcoreapp3.1\Healthprofile.AssemblyInfo.cs
+C:\Users\ayode\source\repos\Healthprofile\obj\Debug\netcoreapp3.1\Healthprofile.csproj.CoreCompileInputs.cache
+C:\Users\ayode\source\repos\Healthprofile\obj\Debug\netcoreapp3.1\Healthprofile.dll
+C:\Users\ayode\source\repos\Healthprofile\obj\Debug\netcoreapp3.1\Healthprofile.pdb
+C:\Users\ayode\source\repos\Healthprofile\obj\Debug\netcoreapp3.1\Healthprofile.genruntimeconfig.cache
